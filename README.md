@@ -33,6 +33,3 @@ The Fortnite Account checker requires .NET 6 to be installed on your computer. Y
 ![image](https://user-images.githubusercontent.com/36981621/232632846-547b4aad-8e85-4252-8366-2de1fcb7be5a.png)
 ![image](https://user-images.githubusercontent.com/36981621/232632898-f66ac55b-eb3c-491c-857c-f1f1fd81b6fa.png)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=KyeOnDiscord/FortniteChecker&type=Date)](https://star-history.com/#KyeOnDiscord/FortniteChecker&Date)
